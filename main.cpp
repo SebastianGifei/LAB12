@@ -26,5 +26,7 @@ int main () {
     mystring.pop();
   }
 
+  cout<<"Aceasta este o modificare"<<endl;
+  
   return 0;
 }
